@@ -1,0 +1,7 @@
+{
+    "name" : "VIDLY CINEMAS(Dev)",
+    "mail" : {
+        "host" : "http://localhost",
+        "email" : "sleek@yopmail.com"
+    }
+}
